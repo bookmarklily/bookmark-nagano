@@ -1,0 +1,10 @@
+{
+  "name": "bookmark-nagano-v4",
+  "version": "4.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync-instagram.mjs",
+    "serve": "python3 -m http.server 8080 -d public"
+  }
+}

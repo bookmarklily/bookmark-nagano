@@ -1,0 +1,6 @@
+[
+  {"id":"seed-1","source":"seed","title":"長野大学 りんどう祭｜DANCE","type":"SHOWCASE","area":"東信","city":"上田","dateLabel":"2026.10.17 SAT","time":"晴天 14:15–15:15 / 雨天 10:30–11:30","venue":"長野大学 体育館","image":"images/nagano-univ.jpg","instagram":"https://www.instagram.com/bookmark_nagano/","needsReview":false},
+  {"id":"seed-2","source":"seed","title":"STAY GOLD 09 -TSUDOI-","type":"SHOWCASE","area":"東信","city":"上田","dateLabel":"2026.11.08 SUN","time":"OPEN 14:30 / START 15:00","venue":"上田市サントミューゼ 大ホール","image":"images/stay-gold.jpg","instagram":"https://www.instagram.com/bookmark_nagano/","needsReview":false},
+  {"id":"seed-3","source":"seed","title":"松本大学 大学祭 DANCE SHOWCASE","type":"SHOWCASE","area":"中信","city":"松本","dateLabel":"2026.10.18 SUN","time":"10:30–12:00","venue":"松本大学","image":"images/matsumoto-univ.jpg","instagram":"https://www.instagram.com/bookmark_nagano/","needsReview":false},
+  {"id":"seed-4","source":"seed","title":"長野県立大学 D&D｜学園祭 DANCE","type":"SHOWCASE","area":"北信","city":"長野","dateLabel":"2026.10.31 / 11.01","time":"10/31 11:55– / 11/1 14:50–","venue":"長野県立大学 講堂","image":"images/univ-nagano.jpg","instagram":"https://www.instagram.com/bookmark_nagano/","needsReview":false}
+]
