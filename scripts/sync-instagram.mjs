@@ -2,7 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import crypto from 'node:crypto';
 
-const ROOT = path.resolve(new URL('..', import.meta.url).pathname, '..');
+const ROOT = path.resolve(new URL('..', import.meta.url).pathname);
 const PUBLIC = path.join(ROOT, 'public');
 const DATA = path.join(PUBLIC, 'data');
 const IMG = path.join(PUBLIC, 'images', 'instagram');
