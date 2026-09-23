@@ -22,6 +22,6 @@ jobs:
         run: |
           git config user.name "BOOKMARK Sync Bot"
           git config user.email "actions@users.noreply.github.com"
-          git add public/data public/images/instagram
+          git add public/data public/images/instagram 2>/dev/null || true
           git diff --cached --quiet || git commit -m "sync: Instagram posts"
           git push
